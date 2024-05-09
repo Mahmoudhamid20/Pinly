@@ -22,7 +22,7 @@ Pinly is a simple Chrome extension built using JavaScript that allows you to:
 
 To install Pinly, follow these steps:
 
-1. Download the Pinly extension files from [GitHub]([link/to/your/github/repository](https://github.com/Mahmoudhamid20/Pinly/tree/main)).
+1. Download the Pinly extension files from [GitHub](https://github.com/Mahmoudhamid20/Pinly.git).
 2. Open Google Chrome.
 3. Go to `chrome://extensions/`.
 4. Enable "Developer mode" by toggling the switch in the top-right corner.
