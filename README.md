@@ -1,6 +1,7 @@
 # Pinly
 
-![icon](https://github.com/Mahmoudhamid20/Pinly/assets/80116197/81198edc-49a0-4e95-943f-12ab050b4465)
+<img src="https://github.com/Mahmoudhamid20/Pinly/assets/80116197/81198edc-49a0-4e95-943f-12ab050b4465" alt="icon"  height="250">
+
 
 
 
